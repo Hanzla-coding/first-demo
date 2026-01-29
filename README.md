@@ -1,170 +1,92 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zeeshan Ramzan | Full-Stack Developer</title>
+<h1 align="center">Hi 👋, I'm Zeeshan Ramzan</h1>
+<h3 align="center">Full-Stack Web Developer | Passionate Problem Solver</h3>
 
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zees123-svg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zees123-svg&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Poppins', sans-serif;
-        }
+---
 
-        body {
-            background: #0f172a;
-            color: #e5e7eb;
-            line-height: 1.6;
-        }
+## 👨‍💻 About Me
 
-        header {
-            text-align: center;
-            padding: 60px 20px;
-            background: linear-gradient(135deg, #1e293b, #020617);
-        }
+- 🌐 Specialized in **Frontend & Backend Web Development**
+- 💻 Skilled in **HTML, CSS, Bootstrap, JavaScript, React.js, PHP, MySQL**
+- 🛠️ Tools: **Git, GitHub, VS Code**
+- 🧠 Always learning and exploring **new technologies**
+- 🎯 Open to **freelance opportunities**
+- 📫 Contact me at **versatilezeeshan1708@gmail.com**
+- 📞 WhatsApp: **+92 321 6850363**
 
-        header h1 {
-            font-size: 2.8rem;
-            font-weight: 700;
-            color: #38bdf8;
-        }
+---
 
-        header p {
-            margin-top: 10px;
-            font-size: 1.2rem;
-            color: #cbd5f5;
-        }
+## 🛠️ Tech Stack
 
-        section {
-            padding: 60px 10%;
-        }
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-        h2 {
-            font-size: 2rem;
-            margin-bottom: 20px;
-            color: #38bdf8;
-        }
+### 🧰 Backend & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-        .about p {
-            max-width: 800px;
-        }
+---
 
-        .skills, .projects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-        }
+## 📊 GitHub Statistics
 
-        .card {
-            background: #020617;
-            padding: 20px;
-            border-radius: 12px;
-            transition: 0.3s;
-        }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zees123-svg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(56,189,248,0.2);
-        }
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zees123-svg&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-        .card i {
-            font-size: 2rem;
-            color: #38bdf8;
-            margin-bottom: 10px;
-        }
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zees123-svg&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-        .projects a {
-            color: #38bdf8;
-            text-decoration: none;
-            font-weight: 500;
-        }
+---
 
-        footer {
-            text-align: center;
-            padding: 30px;
-            background: #020617;
-        }
+## 📌 Featured Projects
 
-        footer a {
-            color: #38bdf8;
-            margin: 0 10px;
-            font-size: 1.3rem;
-        }
+- 🔗 [Eventify – Full Stack](https://github.com/zees123-svg/Eventify)
+- 🔗 [Eventify – Frontend](https://github.com/zees123-svg/Eventify-F.E-Project)
+- 🔗 [Portfolio Series (1–7)](https://github.com/zees123-svg)
+- 🔗 [Cafe Website – Frontend](https://github.com/zees123-svg/Cafe-F.E-Project)
+- 🔗 [Netflix Clone – Frontend](https://github.com/zees123-svg/Netflix-F.E-Project)
+- 🔗 [E-Commerce Website](https://github.com/zees123-svg/E-Commerce-F.E-Project)
+- 🔗 [Blog Website](https://github.com/zees123-svg/blog-website)
+- 🔗 [Work Reporting System](https://github.com/zees123-svg/work-reporting)
+- 🔗 [React Movie List](https://github.com/zees123-svg/React-Movie-List-Website)
+- 🔗 [React E-Learning Platform](https://github.com/zees123-svg/E-Learning-React-Project)
 
-        footer p {
-            margin-top: 15px;
-            font-size: 0.9rem;
-            color: #94a3b8;
-        }
-    </style>
-</head>
-<body>
+---
 
-<header>
-    <h1>Zeeshan Ramzan</h1>
-    <p>Full-Stack Web Developer | Frontend & Backend Specialist</p>
-</header>
+## ✍️ Dev Quote
 
-<section class="about">
-    <h2>About Me</h2>
-    <p>
-        I am a passionate Full-Stack Web Developer with experience in building
-        responsive, modern, and scalable web applications. I enjoy turning ideas
-        into real products using clean and efficient code.
-    </p>
-</section>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programming%20isn’t%20about%20writing%20code%3B%20it’s%20about%20turning%20confusion%20into%20logic%2C%20one%20bug%20at%20a%20time.&author=Zeeshan%20Ramzan" />
+</p>
 
-<section>
-    <h2>Tech Stack</h2>
-    <div class="skills">
-        <div class="card"><i class="fa-brands fa-html5"></i><p>HTML5</p></div>
-        <div class="card"><i class="fa-brands fa-css3-alt"></i><p>CSS3</p></div>
-        <div class="card"><i class="fa-brands fa-bootstrap"></i><p>Bootstrap</p></div>
-        <div class="card"><i class="fa-brands fa-js"></i><p>JavaScript</p></div>
-        <div class="card"><i class="fa-brands fa-react"></i><p>React JS</p></div>
-        <div class="card"><i class="fa-brands fa-php"></i><p>PHP</p></div>
-        <div class="card"><i class="fa-solid fa-database"></i><p>MySQL</p></div>
-        <div class="card"><i class="fa-brands fa-git-alt"></i><p>Git & GitHub</p></div>
-    </div>
-</section>
+---
 
-<section>
-    <h2>Featured Projects</h2>
-    <div class="projects">
-        <div class="card">
-            <h3>Eventify (Full Stack)</h3>
-            <a href="https://github.com/zees123-svg/Eventify" target="_blank">View Project</a>
-        </div>
-        <div class="card">
-            <h3>React E-Learning</h3>
-            <a href="https://github.com/zees123-svg/E-Learning-React-Project" target="_blank">View Project</a>
-        </div>
-        <div class="card">
-            <h3>Netflix UI Clone</h3>
-            <a href="https://github.com/zees123-svg/Netflix-F.E-Project" target="_blank">View Project</a>
-        </div>
-        <div class="card">
-            <h3>Tic Tac Toe Game</h3>
-            <a href="https://github.com/zees123-svg/tic-tac-toe-project" target="_blank">View Project</a>
-        </div>
-    </div>
-</section>
+## 📫 Connect With Me
 
-<footer>
-    <a href="mailto:versatilezeeshan1708@gmail.com"><i class="fa-solid fa-envelope"></i></a>
-    <a href="https://wa.me/923216850363" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
-    <a href="https://github.com/zees123-svg" target="_blank"><i class="fa-brands fa-github"></i></a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923216850363)
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail)](mailto:versatilezeeshan1708@gmail.com)
 
-    <p>© 2026 Zeeshan Ramzan | All Rights Reserved</p>
-</footer>
+---
 
-</body>
-</html>
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
